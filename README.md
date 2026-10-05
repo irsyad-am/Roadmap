@@ -1,1 +1,1 @@
-https://github.com/irsyad-am/Roadmap
+https://roadmap.sh/projects/single-page-cv
